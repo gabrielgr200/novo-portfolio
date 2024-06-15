@@ -64,21 +64,21 @@ export const projectsData = [
   {
     title: "Clone - Xbox",
     description:
-      "I worked as a full-stack developer on this startup project for 2 years. Users can give public feedback to companies.",
+      "Criei este projeto como desenvolvedor front-end, com o objetivo de estudar programação criando uma réplica do site da Xbox.",
     tags: ["React", "JavaScript", "Styled Component"],
     imageUrl: corpcommentImg,
   },
   {
     title: "Mentimeter",
     description:
-      "Job board for remote developer jobs. I was the front-end developer. It has features like filtering, sorting and pagination.",
+      "Esse projeto foi desenvolvido numa aula da Rocketseat, com o objetivo de criar salas e responder perguntas.",
     tags: ["React", "TypeScript", "FireBase", "Sass", "Framer Motion"],
     imageUrl: rmtdevImg,
   },
   {
     title: "Clone - GitHub",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
+      "Esse projeto é um clone do GitHub na sua versão antiga, um projeto feito para aprimorar minhas habilidades no front-end.",
     tags: ["Tailwind", "Next.js", "TypeScript", "Framer Motion"],
     imageUrl: wordanalyticsImg,
   },
