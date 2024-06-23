@@ -5,6 +5,8 @@ import { LuGraduationCap } from "react-icons/lu";
 import corpcommentImg from "@/public/corpcomment.png";
 import rmtdevImg from "@/public/rmtdev.png";
 import wordanalyticsImg from "@/public/wordanalytics.png";
+import netflix from "@/public/netflix.png";
+import spotify from "@/public/spotify.png";
 
 export const links = [
   {
@@ -82,6 +84,20 @@ export const projectsData = [
     tags: ["Tailwind", "Next.js", "TypeScript", "Framer Motion"],
     imageUrl: wordanalyticsImg,
   },
+  {
+    title: "Clone - Netflix",
+    description:
+      "Esse projeto é um clone da Netflix, um projeto feito para aprimorar minhas habilidades no front-end e back-end.",
+    tags: ["Css", "Vite.js", "JavaScript", "Firebase"],
+    imageUrl: netflix,
+  },
+  {
+    title: "Clone - Spotify",
+    description:
+      "Criei este projeto como desenvolvedor front-end, com o objetivo de estudar programação criando uma réplica do site do Spotify.",
+    tags: ["Tailwind", "Vite.js", "JavaScript"],
+    imageUrl: spotify,
+  },
 ] as const;
 
 export const skillsData = [
@@ -90,6 +106,7 @@ export const skillsData = [
   "JavaScript",
   "TypeScript",
   "React",
+  "Firebase",
   "Next.js",
   "Node.js",
   "Tailwind",
